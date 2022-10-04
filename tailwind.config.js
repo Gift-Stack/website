@@ -20,6 +20,9 @@ module.exports = {
           100: "#0070f3",
         },
       },
+      boxShadow: {
+        "blue-btn": "0 4px 14px 0 rgb(0 118 255 / 39%)",
+      },
     },
   },
   plugins: [],
