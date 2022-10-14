@@ -28,7 +28,7 @@ const Contact = () => {
                     type="button"
                     className="h-11 my-2.5 mb-0 font-medium w-full bg-black text-white border border-black relative inline-flex items-center justify-center cursor-pointer py-1 px-2 rounded-lg transition-colors duration-[2s] ease-in-out outline-none"
                   >
-                    <span>Subscribe</span>
+                    <span>Contact</span>
                   </button>
                 </a>
               </div>

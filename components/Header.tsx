@@ -12,12 +12,24 @@ const Header = () => {
         <div className="w-full bg-black border-0">
           <div className="w-full text-white py-4 px-3 max-w-5xl mx-auto border-0 flex items-center justify-between">
             <p className="">GiFTED!</p>
-            <p>About</p>
+            <a
+              href="https://www.linkedin.com/in/gift-opia-08739b194/"
+              target={"_blank"}
+              rel="noopener noreferrer"
+            >
+              Check <b>GiFTED</b> on LinkedIn →
+            </a>
           </div>
         </div>
-        <div className="w-full bg-white">
+        <div
+          className="w-full bg-white"
+          style={{
+            backdropFilter: "saturate(180%) blur(5px)",
+            background: "hsla(0,0%,100%,.8)",
+          }}
+        >
           <div className="text-black text-sm py-4 px-3 border-0 max-w-5xl mx-auto hidden md:flex items-center justify-between">
-            <a>GiFTED!</a>
+            <p className="logo text-4xl">GiFTED!</p>
             <a href="#">Showcase</a>
             <a href="#blog">Blog</a>
             <a href="#companies">Companies</a>
@@ -25,7 +37,7 @@ const Header = () => {
             <a href="#contact">Contact</a>
           </div>
           <div className="text-black text-sm py-4 px-3 border-0 max-w-5xl mx-auto md:hidden flex items-center justify-between">
-            <a>GiFTED!</a>
+            <a className="logo text-2xl">GiFTED!</a>
             <div className="flex items-center">
               <a className="mr-2" href="#contact">
                 Contact
