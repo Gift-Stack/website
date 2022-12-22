@@ -9,7 +9,7 @@ const Showcase = () => {
           <div className="jsx-f3df9ffcc86261d9 content">
             <div className="jsx-f3df9ffcc86261d9 slider">
               <div className="jsx-f3df9ffcc86261d9 slide">
-                <svg height="36" viewBox="0 0 400 136.76">
+                {/* <svg height="36" viewBox="0 0 400 136.76">
                   <g transform="matrix(6.4378 0 0 6.4378 4 4)">
                     <g>
                       <g>
@@ -20,14 +20,17 @@ const Showcase = () => {
                       </g>
                     </g>
                   </g>
-                </svg>
+                </svg> */}
+                <img src="/forj-logo.svg" alt="" width={100} />
               </div>
             </div>
             <a
-              href="/case-studies/hulu"
+              href="https://forj.network/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="jsx-ae9d8b4518f60371 action btn fw4 no-drag invert"
             >
-              Read Case Study
+              Current company
             </a>
           </div>
         </div>
@@ -310,7 +313,7 @@ const Showcase = () => {
         </div>
       </div>
       <a
-        href="/showcase"
+        // href="/showcase"
         className="jsx-ae9d8b4518f60371 btn fw4 no-drag invert"
       >
         View Showcase

@@ -8,7 +8,8 @@ const Hero = () => {
       </div>
       <div className="text-center">
         <h1 className="mt-10 text-5xl md:text-8xl font-extrabold mb-8">
-          The React Framework for Productin
+          {/* The React Framework for Productin */}
+          The React Framework Developer
         </h1>
         <h2 className="md:text-xl mb-10 text-blackish-600">
           Next.js gives you the best developer experience with all the features

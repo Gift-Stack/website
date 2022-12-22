@@ -1,4 +1,4 @@
-import Link from "next/link";
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 
 const Resume = () => {
@@ -11,6 +11,7 @@ const Resume = () => {
         <h3 className="text-base text-greyish-300 font-normal">
           Learn Next.js step-by-step and earn points ✨.
         </h3>
+        <img src="/images/github-profile.png" alt="" />
       </div>
       <div>
         <a href="mailto:gkenny896@gmail.com">

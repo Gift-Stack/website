@@ -389,11 +389,11 @@ div.jsx-2444090906 {
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
-  background-color: #0070f3;
+  background-color: #0070f3 !important;
   -webkit-box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
   -moz-box-shadow: 0 4px 14px 0 rgba(0, 118, 255, 0.39);
   box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
-  color: white;
+  color: white !important;
 }
 
 .btn.invert.jsx-ae9d8b4518f60371 {

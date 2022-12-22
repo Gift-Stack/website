@@ -76,7 +76,7 @@ const Header = () => {
                     <a
                       className="text-greyish-300 py-2.5 px-2 flex"
                       title="Showcase"
-                      href="/showcase"
+                      // href="/showcase"
                     >
                       Showcase
                     </a>
