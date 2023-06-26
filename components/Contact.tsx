@@ -10,8 +10,8 @@ const Contact = () => {
             action.
           </h2>
           <h3 className="text-base text-center md:text-left font-normal">
-            Join the Next.js newsletter and stay updated on new releases and
-            features, guides, and case studies.
+            Join the bandwagon and stay updated on new projects and features,
+            guides and case studies
           </h3>
         </aside>
         <aside>

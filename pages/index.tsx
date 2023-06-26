@@ -9,7 +9,7 @@ import Showcase from "../components/Showcase";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-white text-black">
       <Header />
       <div className="body">
         <Hero />

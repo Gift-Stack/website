@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 
 const Blog = () => {
   return (
-    <section id="blog" className="pt-28">
+    <section id="projects" className="pt-28">
       <div className="my-4">
         {/* <h1 className="text-center text-4xl mb-4 font-bold">The Web SDK</h1> */}
         <h1 className="text-center text-4xl mb-4 font-bold">
@@ -14,7 +14,7 @@ const Blog = () => {
           Next.js has all the tools you need to make the Web. Faster.
         </h3>
       </div>
-      <div className="grid md:grid-cols-3 gap-4">
+      <div className="grid md:grid-cols-3 gap-4  mb-10 ">
         <a
           href="https://rocketglobal.io/"
           target="_blank"
@@ -93,7 +93,7 @@ const Blog = () => {
           </p>
         </a>
       </div>
-      <p className=" my-10 text-sm text-center">
+      {/* <p className=" my-10 text-sm text-center">
         <strong>And more:</strong> Support for{" "}
         <a
           className="text-blueish-100 hover:underline"
@@ -123,7 +123,7 @@ const Blog = () => {
           automatic polyfills
         </a>
         , and more.
-      </p>
+      </p> */}
     </section>
   );
 };

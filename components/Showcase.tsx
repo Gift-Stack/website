@@ -41,8 +41,8 @@ const Showcase = () => {
           Who&apos;s Using Next.js
         </h2>
         <h3 className="jsx-2444090906 f-reset subtitle fw4">
-          We’re honored some of the most talented creatives out there build with
-          Next.js
+          I am honored some of the most talented creatives out there worked with
+          GiFTED!
         </h3>
       </div>
       <div className="jsx-3d1d3e995d209c38 showcase-container tablet">
@@ -313,10 +313,11 @@ const Showcase = () => {
         </div>
       </div>
       <a
-        // href="/showcase"
+        href="/resume.pdf"
+        target="_blank"
         className="jsx-ae9d8b4518f60371 btn fw4 no-drag invert"
       >
-        View Showcase
+        View Resume
       </a>
     </div>
   );
