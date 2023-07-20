@@ -1,5 +1,5 @@
 import React from "react";
-import Blog from "../components/Blog";
+import Projects from "../components/Projects";
 import Companies from "../components/Companies";
 import Contact from "../components/Contact";
 import Header from "../components/Header";
@@ -13,7 +13,7 @@ const Home = () => {
       <Header />
       <div className="body">
         <Hero />
-        <Blog />
+        <Projects />
       </div>
       <Companies />
       <Showcase />

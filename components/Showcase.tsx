@@ -28,17 +28,20 @@ const Showcase = () => {
               href="https://forj.network/"
               target="_blank"
               rel="noopener noreferrer"
-              className="jsx-ae9d8b4518f60371 action btn fw4 no-drag invert"
+              className="jsx-ae9d8b4518f60371 action btn fw4 no-drag invert !min-w-fit"
             >
               Current company
             </a>
           </div>
         </div>
       </div>
-      <div className="jsx-2444090906">
+      <div className="jsx-2444090906 px-3">
         <span id="showcases" className="jsx-2444090906 anchor"></span>
-        <h2 id="customers" className="jsx-2444090906 fw7">
-          Who&apos;s Using Next.js
+        <h2
+          id="customers"
+          className="jsx-2444090906 fw7 !text-3xl !md:text-4xl"
+        >
+          Who&apos;s GiFTED! worked with?
         </h2>
         <h3 className="jsx-2444090906 f-reset subtitle fw4">
           I am honored some of the most talented creatives out there worked with

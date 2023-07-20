@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import styles from "../styles/Home.module.css";
 
-const Blog = () => {
+const Projects = () => {
   return (
     <section id="projects" className="pt-28">
       <div className="my-4">
@@ -128,4 +128,4 @@ const Blog = () => {
   );
 };
 
-export default Blog;
+export default Projects;
