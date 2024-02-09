@@ -76,7 +76,7 @@ const BeMyValentines = () => {
         >
           <button
             onClick={onYesClick}
-            className="py-2.5 px-5 bg-green-500 hover:bg-green-700 font-bold min-w-[100px] rounded transition-all duration-100 ease-in-out relative [&>div]:-top-5 [&>div]:me-auto [&>div]:m-auto break-all leading-none"
+            className="py-2.5 px-5 bg-green-500 hover:bg-green-700 font-bold min-w-[100px] rounded relative [&>div]:-top-5 [&>div]:me-auto [&>div]:m-auto break-all leading-none"
             style={{ fontSize: `${20 * (numbersOfNoClicked + 1) + 6}px` }}
           >
             {yes && (
