@@ -57,7 +57,7 @@ const Header = () => {
             <a href="#">About</a>
             <a href="#projects">Showcase</a>
             <a
-              href="https://dev.to/iamgifted"
+              href="https://blog.iamgifted.dev"
               target="__blank"
               rel="noreferrer noopener"
             >
