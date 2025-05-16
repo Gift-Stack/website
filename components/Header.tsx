@@ -10,7 +10,7 @@ const routes = [
     name: "Showcase",
   },
   {
-    link: "https://dev.to/iamgifted",
+    link: "https://blog.iamgifted.dev",
     name: "Blog",
     target: "__blank",
   },
