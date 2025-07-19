@@ -37,11 +37,11 @@ const Header = () => {
           <div className="w-full text-white py-4 px-3 max-w-5xl mx-auto border-0 flex items-center justify-between">
             <p className="">GiFTED!</p>
             <a
-              href="https://www.linkedin.com/in/gift-opia-08739b194/"
+              href="https://x.com/_0xgifted"
               target={"_blank"}
               rel="noopener noreferrer"
             >
-              Check <b>GiFTED</b> on LinkedIn →
+              Check <b>GiFTED</b> on X →
             </a>
           </div>
         </div>
